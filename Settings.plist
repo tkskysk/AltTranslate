@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>en</string>
+		<key>Key</key>
+		<string>language</string>
+		<key>Title</key>
+		<string>Translate into</string>
+		<key>Titles</key>
+		<array>
+			<string>English</string>
+			<string>Spanish</string>
+			<string>Arabic</string>
+			<string>Dutch</string>
+			<string>French</string>
+			<string>German</string>
+			<string>Greek</string>
+			<string>Italian</string>
+			<string>Portuguese</string>
+			<string>Russian</string>
+			<string>Japanese</string>
+			<string>Simplified Chinese</string>
+			<string>Traditional Chinese</string>
+		</array>
+		<key>Type</key>
+		<string>PopUpButton</string>
+		<key>Values</key>
+		<array>
+			<string>en</string>
+			<string>es</string>
+			<string>ar</string>
+			<string>nl</string>
+			<string>fr</string>
+			<string>de</string>
+			<string>el</string>
+			<string>it</string>
+			<string>pt</string>
+			<string>ru</string>
+			<string>ja</string>
+			<string>zh-cn</string>
+			<string>zh-tw</string>
+		</array>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>ja</string>
+		<key>Key</key>
+		<string>secondary</string>
+		<key>Title</key>
+		<string>Secondary</string>
+		<key>Titles</key>
+		<array>
+			<string>English</string>
+			<string>Spanish</string>
+			<string>Arabic</string>
+			<string>Dutch</string>
+			<string>French</string>
+			<string>German</string>
+			<string>Greek</string>
+			<string>Italian</string>
+			<string>Portuguese</string>
+			<string>Russian</string>
+			<string>Japanese</string>
+			<string>Simplified Chinese</string>
+			<string>Traditional Chinese</string>
+		</array>
+		<key>Type</key>
+		<string>PopUpButton</string>
+		<key>Values</key>
+		<array>
+			<string>en</string>
+			<string>es</string>
+			<string>ar</string>
+			<string>nl</string>
+			<string>fr</string>
+			<string>de</string>
+			<string>el</string>
+			<string>it</string>
+			<string>pt</string>
+			<string>ru</string>
+			<string>ja</string>
+			<string>zh-cn</string>
+			<string>zh-tw</string>
+		</array>
+	</dict>
+</array>
+</plist>
