@@ -11,9 +11,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -35,7 +35,7 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>AltTranslate translates text selected while pressing ALT key.</string>
+	<string>AltTranslate translates the text selected while pressing Alt ( Option ) key.</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -47,8 +47,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://www.tanusai.com/AltTranslate/manifest.plist</string>
+	<string>http://www.grkt.com/products/safari_extension/AltTranslate/manifest.plist</string>
 	<key>Website</key>
-	<string>http://tanusai.com/blog/</string>
+	<string>http://www.grkt.com/2010/07/01/alttranslate/</string>
 </dict>
 </plist>
