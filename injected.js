@@ -11,7 +11,7 @@ bln_body.id = 'altrans_bln_load';
 
 waitForClick();
 
-/** send words to google translate API */
+/** send words to Bing translate API */
 function sendWord( word ){
 	if( word == lastSearch ) return;
 	bln_body.innerHTML = "Translating...";

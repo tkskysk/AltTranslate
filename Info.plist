@@ -4,6 +4,8 @@
 <dict>
 	<key>Author</key>
 	<string>Tanusai</string>
+	<key>Builder Version</key>
+	<string>7534.51.22</string>
 	<key>CFBundleDisplayName</key>
 	<string>AltTranslate</string>
 	<key>CFBundleIdentifier</key>
@@ -11,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>2.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>2.0</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -49,6 +51,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://www.grkt.com/products/safari_extension/AltTranslate/manifest.plist</string>
 	<key>Website</key>
-	<string>http://www.grkt.com/2010/07/01/alttranslate/</string>
+	<string>http://www.grkt.com/2010/07/01/159</string>
 </dict>
 </plist>
